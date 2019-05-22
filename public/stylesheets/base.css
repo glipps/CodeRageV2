@@ -1,0 +1,139 @@
+.container {
+  margin-top: 10px;
+}
+body { 
+  background-color: white;
+  color: white;
+  align-content: center;
+}
+a {
+  color: white;
+}
+p {
+  text-align: left;
+  color: grey;
+  padding: 10px;
+}
+.tagLine {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  margin-top: 20px;
+}
+ /* background-image: url("../images/background.jpg"); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  text-align: center;*/
+  h1{
+    text-align: center;
+  }
+  
+  h3{
+color:white;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, bold, sans-serif;
+padding: 10px;
+background: lightslategray;
+;
+  }
+  h4{
+    color:grey;
+    font-size: 30px;
+    padding: 10px;
+  }
+  h5{
+    color:grey;
+    font-size: 14px;
+    padding: 10px;
+  }
+  h6{
+    color: grey;
+    
+  }
+  #siteName {
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 72px;
+  }
+.siteNameHeader {
+  width: 100%;
+  height: 150px;
+}
+  h2 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 48px;
+   
+  }
+  .h2rages {
+    color: white;
+  }
+ 
+  
+  #signupButtons {
+    margin: auto;
+    margin-left: 700px;
+    margin-top: 100px;
+    
+  }
+  #rageContent {
+    margin: auto;
+    margin-top: 50px;
+    
+  
+  }
+  .chirp {
+    border-style: solid ;
+    margin-top: 10px;
+    background-color: white;
+    
+  }
+  #rageContent {
+    width: 300px;
+    /* height: 75px; */
+  }
+  #chirp-area {
+    margin-left: 300px;
+    margin-right: 300px;
+  }
+  .loginBlock {
+    width: 700px;
+    margin-top: 100px;
+  }
+  .loginButton {
+   align-content: center;
+   margin-left: 225px;
+  }
+  .logoutButton {
+    align-content: center;
+    margin-left: 700px;
+  }
+  .directories {
+    text-align: center;
+    color: white;
+    
+  }
+  .link {
+    color: grey;
+   
+  }
+  .rageBlock{
+    width: 600px;
+    margin-top: 250px;
+  }
+  .cool-font {
+    color: white; 
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+  }
+  #directions {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color:grey;
+    margin-top: 170px;
+    background-color: none;
+    margin-bottom: -180px;
+  }
