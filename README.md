@@ -44,5 +44,4 @@ Project must include the following:
 
 
 https://codrage.herokuapp.com/ 
-
-=======
+https://github.com/glipps/CodeRageV2
